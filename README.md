@@ -1,20 +1,13 @@
 # 👋 Hi, I’m Hariprasad Varagur Murali  
-
-🚗 M.Sc. Commercial Vehicle Technology @ RPTU Kaiserslautern-Landau  
-🔬 Focused on ADAS, Sensor Fusion & Vehicle Software  
-💻 Skilled in Python · C++ · MATLAB/Simulink · ROS2 · Qt · Linux · Git  
-📈 Passionate about bridging simulation and real-world vehicle systems  
+💼 Intern @ Mercedes-Benz AG | Vehicle Software & Autonomous Driving Enthusiast | Embedded Systems & Simulation  
 
 ---
 
-### 👋 About Me
-🎓 **M.Sc. in Commercial Vehicle Technology**, RPTU Kaiserslautern-Landau  
-💼 **Intern at Mercedes-Benz AG**, Sindelfingen – Vehicle Software Development and Project Management
-🚗 Worked on **Sensor Fusion, ADAS Modules**  
-🤖 Interests: **Autonomous Driving | ADAS | Sensor Fusion | Machine Learning | Computer Vision**  
-🧪 Recent Projects: **Virtual HiL Testbench for ACC**, **YOLOv3 Object Detection**  
-🌱 Currently Learning: **Functional Safety (ISO 26262) | Model-Based Development | Real-Time Embedded Systems**
-
+### 🧭 About Me
+🎓 Graduated with **M.Sc. in Commercial Vehicle Technology** from RPTU Kaiserslautern-Landau  
+🚗 Passionate about **bridging simulation and real-world vehicle systems**  
+🤖 Focused on **Autonomous Driving, ADAS, Sensor Fusion, Machine Learning, and Computer Vision**  
+🌱 Currently enhancing skills in **Functional Safety (ISO 26262), Model-Based Development, and Real-Time Embedded Systems**  
 ---
 
 ### 🛠️ Tech & Tool Stack
