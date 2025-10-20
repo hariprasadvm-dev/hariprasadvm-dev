@@ -20,7 +20,7 @@
 `ROS2` · `Qt` · `Flask` · `TensorFlow` · `OpenCV` · `NumPy` · `Pandas` · `Matplotlib` · `Seaborn` · `Plotly`
 
 **Simulation & Testing Tools:**  
-`Gazebo` · `CANoe` · `Docker` · Virtual HiL / SiL frameworks
+`Gazebo` · `Docker`
 
 **Version Control & OS:**  
 `Git` · `Linux (Ubuntu)`
