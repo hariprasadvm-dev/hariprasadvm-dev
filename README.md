@@ -8,6 +8,7 @@
 🚗 Passionate about **bridging simulation and real-world vehicle systems**  
 🤖 Focused on **Autonomous Driving, ADAS, Sensor Fusion, Machine Learning, and Computer Vision**  
 🌱 Currently enhancing skills in **Functional Safety (ISO 26262), Model-Based Development, and Real-Time Embedded Systems**  
+
 ---
 
 ### 🛠️ Tech & Tool Stack
