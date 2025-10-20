@@ -7,8 +7,13 @@
 
 ---
 
-## 🧭 About Me  
-As an aspiring engineer in the automotive domain, I’m enthusiastic about developing intelligent vehicle systems — from sensor fusion algorithms and perception modules to virtual XiL/HiL test benches and embedded software. My experience spans from sensor‐data analysis to software development for thermal‐comfort systems in German OEMs, and I enjoy working at the intersection of simulation and real-vehicle validation.
+### 👋 About Me
+🎓 **M.Sc. in Commercial Vehicle Technology**, RPTU Kaiserslautern-Landau  
+💼 **Intern at Mercedes-Benz AG**, Sindelfingen – Vehicle Software Development and Project Management
+🚗 Worked on **Sensor Fusion, ADAS Modules**  
+🤖 Interests: **Autonomous Driving | ADAS | Sensor Fusion | Machine Learning | Computer Vision**  
+🧪 Recent Projects: **Virtual HiL Testbench for ACC**, **YOLOv3 Object Detection**  
+🌱 Currently Learning: **Functional Safety (ISO 26262) | Model-Based Development | Real-Time Embedded Systems**
 
 ---
 
