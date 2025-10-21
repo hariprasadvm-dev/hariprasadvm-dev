@@ -63,7 +63,6 @@ A TensorFlow-based implementation of YOLOv3 for real-time object detection in im
 
 📫 **Email:** hariprasad.vmurali@gmail.com  
 🔗 **LinkedIn:** [linkedin.com/in/hariprasad-varagur-murali](https://www.linkedin.com/in/hariprasad-varagur-murali)  
-🐙 **GitHub:** [github.com/hariprasadvm-dev](https://github.com/hariprasadvm-dev)  
 
 ---
 
